@@ -1,0 +1,28 @@
+name: The Differentiation
+favicon: null
+layout_spectrum: 0.09490962838754058
+typography_spectrum: 0.9690643064677715
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.09091786877252162
+  lightness: 0.4075426037888974
+  saturation: 0.8222530828788877
+  rhythmicContrast: 0.2862143835518509
+purpose: []
