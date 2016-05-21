@@ -1,7 +1,7 @@
 name: The Differentiation
 favicon: null
-layout_spectrum: 0.09490962838754058
-typography_spectrum: 0.9690643064677715
+layout_spectrum: 0.24952
+typography_spectrum: 0
 title: The Differentiation
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
   brandStrength: 0.09091786877252162
-  lightness: 0.4075426037888974
-  saturation: 0.8222530828788877
+  lightness: 0.25
+  saturation: 0.6875
   rhythmicContrast: 0.2862143835518509
 purpose: []
