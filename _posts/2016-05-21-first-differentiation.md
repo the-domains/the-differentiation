@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'dif·fer·en·ti·ate ˌdifəˈren(t)SHēˌāt/ '
-datePublished: '2016-05-21T08:44:36.705Z'
-dateModified: '2016-05-21T08:38:55.946Z'
+datePublished: '2016-05-21T08:53:12.880Z'
+dateModified: '2016-05-21T08:49:56.935Z'
 author: []
 title: First. Differentiation.
 sourcePath: _posts/2016-05-21-first-differentiation.md
@@ -17,8 +17,6 @@ url: first-differentiation/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4905ea27-7d56-437b-a130-361ca69df259.png)
-
 # First. Differentiation.
 
 dif\*fer\*en\*ti\*ate ˌdifəˈren(t)SHēˌāt/ 
