@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Differentiation]]></title>
+        <description><![CDATA[The Differentiation]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 21 May 2016 07:45:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First. Differentiation.]]></title>
+            <description><![CDATA[<article><h1>First. Differentiation.</h1><p>dif·fer·en·ti·ate ˌdifəˈren(t)SHēˌāt/ </p></article>]]></description>
+            <link>undefinedfirst-differentiation/index.html</link>
+            <guid isPermaLink="false">296246ce-2dbd-4ea9-9be2-0d534cd1d6d2</guid>
+            <pubDate>Sat, 21 May 2016 07:45:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
